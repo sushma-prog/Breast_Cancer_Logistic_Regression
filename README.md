@@ -31,7 +31,10 @@ This project applies **Logistic Regression** to classify tumors as **Malignant (
 - Classification Report (Precision, Recall, F1-score)
 - ROC Curve
 
-## 📝 Folder Structure
+## 📝 Plots
+
+![image](https://github.com/user-attachments/assets/4b912f26-36b9-482e-b000-4815ff981b56)
+![image](https://github.com/user-attachments/assets/41fab241-e7dc-48e8-8522-2473020b2b30)
 
 ## 📎 Author
 
